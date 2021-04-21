@@ -320,6 +320,7 @@ footer{
     #home-img{
         width:50%;
         height: 50%;
+        min-height:300px;
         border-radius: 0px 0px 164px 164px;
     }
     .cont{
